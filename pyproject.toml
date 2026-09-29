@@ -1,0 +1,7 @@
+[project]
+name = "data-engineering"
+version = "0.1.0"
+description = "End-to-end data engineering portfolio project on GCP."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
